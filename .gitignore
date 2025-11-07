@@ -1,0 +1,14 @@
+# .gitignore
+
+# Environment files
+.env
+envs/
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Transformers / Hugging Face cache
+*.bin
