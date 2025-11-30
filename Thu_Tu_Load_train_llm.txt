@@ -1,0 +1,6 @@
+1️⃣ Load model name (string)
+2️⃣ Load tokenizer (phải dựa theo model gốc)
+3️⃣ Dùng tokenizer đó để xử lý dữ liệu (map, tokenize, encode)
+4️⃣ Sau khi dữ liệu đã được tokenized → load model
+5️⃣ (Optional) Bọc model bằng LoRA hoặc PEFT
+6️⃣ Tạo Trainer và bắt đầu train
