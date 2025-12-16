@@ -1,6 +1,9 @@
 # UIT_CS431-Deep-Learning_Application
 
 - [piikerpham/Vietnamese-Qwen2.5-math-1.5B](https://huggingface.co/piikerpham/Vietnamese-Qwen2.5-math-1.5B): Fine-tuned reasoning Vietnamese-Qwen2.5-math-1.5B model
+- [KhoiBui/qwen2.5-math-1.5b_math_reasoning](https://huggingface.co/KhoiBui/qwen2.5-math-1.5b_math_reasoning): Fine-tuned reasoning Vietnamese-Qwen2.5-math-1.5B model
+- [KhoiBui/llama3.2-1b_math_reasoning](https://huggingface.co/KhoiBui/llama3.2-1b_math_reasoning)
+- [KhoiBui/qwen2.5-agent_math_reasoning](https://huggingface.co/KhoiBui/qwen2.5-agent_math_reasoning)
 - [full.ipynb](full.ipynb): baseline for training, evaluate (reasoning & agent model)
 - [evaluate.ipynb](evaluate_model.ipynb): Evaluate model same as in full.ipynb
 - [data_gen.ipynb](data_gen.ipynb) or [colab](https://colab.research.google.com/drive/1VmalCuPiZV9C8mfQAtAlzCnW7Ygu6TE7?fbclid=IwY2xjawOZUI5leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEelfnOkAB3dZEDmxXIjibVlKjqkphVLlDHALNC5gdxjgDiXZnjI230_ijxnlo_aem_bePo-RuZ8GKSCrFn5BbJ9A): Use this file to generate data for agent
